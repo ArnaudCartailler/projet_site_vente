@@ -455,3 +455,44 @@ text-decoration:none;
   border-radius: 80px;
   margin-top: -50px;
 }
+
+
+#contact_form{
+  text-shadow:0 0 0 #FFF;
+  background:black;
+  width:40%;
+  margin-left: 0px;
+  margin-top:240px;
+  margin-bottom:-40px;
+  padding:30px;
+  padding-left:130px;
+  padding-right: 50px;
+  color:white;
+  padding-bottom: 50px;
+}
+
+input{
+ display:block;
+ width:60%;
+ border-radius:4px;
+ background-color:#F4F4F4;
+ color:#000;
+ border:0px;
+ padding:10px;
+ margin-bottom:25px;
+}
+
+#contact_form input[type=submit]{
+ background-color:silver;
+ color:black;
+ margin-top:20px;
+ padding:10px;
+ border:none;
+ font-size:18px;
+}
+
+iframe{
+  width: 46%;
+  margin-left: 696px;
+  margin-top: -430px;
+}
