@@ -210,17 +210,17 @@ header{
 }
 
 .content .processor{
-  margin-top: -50px;
-  margin-left: 2%;
+  margin-top: -320px;
+  margin-left: 5%;
 }
 
 .content .GC{
-  margin-top: -10px;
+  margin-top: -400px;
   margin-left: 2%;
 }
 
 .content .ram{
-  margin-top: -60px;
+  margin-top: -220px;
   margin-left: 2%;
 }
 ===
@@ -331,6 +331,31 @@ text-decoration:none;
   line-height: 45px;
   list-style-type:none;
   text-align: justify;
+  display: block;
+}
+
+.menu2 ul{
+  margin-left: 50px;
+  margin-top: -50px;
+  line-height: 45px;
+  list-style-type: none;
+  text-align: justify;
+}
+
+.menu3 ul{
+  margin-left: -170px;
+  margin-top: -70px;
+  line-height: 45px;
+  list-style-type: none;
+  text-align: justify;
+}
+
+.menu4 ul{
+  margin-left:  -170px;
+  margin-top: -15px;
+  line-height: 45px;
+  list-style-type: none;
+  text-align: justify;
 }
 .PP{
   height : 150px;
@@ -341,29 +366,27 @@ text-decoration:none;
 
 .PP2{
   height : 250px;
-  margin-top: 30px;
-  margin-left: -600px;
+  margin-top: -100px;
+  margin-left: -300px;
   border-radius: 100px;
 }
 
 .specpro{
-  margin-top: -220px;
-  margin-left: 50%;
+  margin-top: -240px;
+  margin-left: 65%;
   margin-right: 10%;
   text-align: justify;
 }
 
 .specgc{
-  margin-top: -220px;
-  margin-left: 60%;
-  margin-right: 10%;
+  margin-top: -240px;
+  margin-left: 70%;
   text-align: justify;
 }
 
 .specram{
   margin-top: -240px;
-  margin-left: 60%;
-  margin-right: 10%;
+  margin-left: 70%;
   text-align: justify;
 }
 
@@ -397,10 +420,10 @@ text-decoration:none;
 }
 
 .DP2{
-  height: 320px;
-  margin-left: -650px;
+  height: 270px;
+  margin-left: -500px;
   border-radius: 80px;
-  margin-top: 20px;
+  margin-top: -70px;
 }
 
 .box3{
@@ -428,7 +451,7 @@ text-decoration:none;
 
 .TP2{
   height: 250px;
-  margin-left: -650px;
+  margin-left: -500px;
   border-radius: 80px;
-  margin-top: 10px;
+  margin-top: -50px;
 }
