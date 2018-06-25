@@ -8,9 +8,7 @@ index.html
 work.html
 contact.html
 
-22 june 2018 : 
-
-The site is online but not responsive.
+https://arnaudcartailler.github.io/projet_site_vente/
 
 Thank for your attention.
 
