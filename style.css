@@ -1,5 +1,32 @@
+
+Skip to content
+
+    Pull requests
+    Issues
+    Marketplace
+    Explore
+
+    @ArnaudCartailler
+
+0
+0
+
+    0
+
+ArnaudCartailler/projet_site_vente
+Code
+Issues 0
+Pull requests 0
+Projects 0
+Wiki
+Insights
+Settings
+projet_site_vente/style.css
+38f630f 5 minutes ago
+@ArnaudCartailler ArnaudCartailler responsive over
+864 lines (731 sloc) 12.3 KB
 *{
-  margin:0;
+ margin:0;
  padding:0;
 }
 
@@ -240,7 +267,7 @@ header{
   margin-left: 27%;
 }
 .contact2{
-  margin-right: 25%;
+  margin-right: 150px;
   display: inline-flex;
   float: right;
 }
@@ -497,7 +524,6 @@ iframe{
   margin-top: -430px;
 }
 
-
 @media only screen and (max-width:500px){
   .head h1{
     margin-left: 70px;
@@ -573,6 +599,110 @@ margin-right: 15px;
   margin-right: -10px;
   text-align: center;
   margin-bottom: 10px;
+}
+
+.head .logo2{
+  margin-top: 0px;
+  margin-left: 20%;
+  height: 100px;
+
+}
+.head .logo3{
+  margin-top: 40px;
+  height :0px;
+}
+
+.head h2{
+  margin-left: 90px;
+}
+
+.bar .index2 a{
+  margin-left: 0px;
+}
+
+.bar .contact2 a{
+  margin-right: -450px;
+  margin-top: -0px;
+}
+
+.container {
+  margin-top: 20%;
+}
+
+.container h2{
+  margin-top: -200px;
+  margin-left: 25px;
+  font-size: 20px;
+}
+
+.container .content .menu2{
+  margin-left: -100%;
+}
+
+.menu3 ul{
+  font-size: 10px;
+  margin-left: 25px;
+  margin-top: -100px;
+}
+
+.menu4 ul{
+  font-size: 10px;
+  margin-left: 40px;
+  margin-top: -30px;;
+}
+.PP2{
+  height: 100px;
+  margin-left: 0px;
+  margin-right: 100px;
+  margin-bottom: 120px;
+}
+
+
+.DP2{
+  height: 150px;
+  margin-left: 20px;
+  margin-right: 100px;
+  float: left;
+}
+.specgc{
+  margin-top: -180px;
+  margin-left: 120px;
+  font-size: 15px;
+  list-style-type:none;
+
+}
+
+.specpro{
+  margin-bottom: 150px;
+  font-size: 12px;
+  list-style-type:none;
+
+}
+
+.TP2{
+  height: 110px;
+  margin-top: -80px;
+  margin-left: 70px;
+  float: left;
+}
+
+.specram{
+  font-size: 15px;
+  margin-left: 250px;
+  margin-top: -80px;
+  list-style-type:none;
+
+}
+
+
+#contact_form{
+  width: -350px;
+}
+
+iframe{
+  margin-top: 40px;
+  width : 380px;
+  margin-left: 0px;
 }
 }
 
@@ -650,5 +780,111 @@ margin-left: 280px;
   margin-right: -100px;
   margin-bottom: 20px;
   text-align: center;
+}
+
+.menu ul{
+margin-left: 40px;
+margin-top: -90px;
+line-height: 45px;
+list-style-type: none;
+text-align: justify;
+}
+
+.menu2 ul{
+  margin-top : -20px;
+}
+
+.menu3 ul{
+  margin-left: -190px;
+}
+
+.menu4 ul{
+    margin-left: -20px;
+    margin-top: -10px;
+}
+
+.container .PP2{
+  width: 200px;
+  margin-right: -180px;
+}
+
+.container .DP2{
+  width: 150px;
+  margin-right: -300px;
+}
+
+.container .TP2{
+  width: 210px;
+  margin-right: -230px;
+  margin-top: -150px;
+}
+
+.specgc{
+  margin-right: -200px;
+}
+
+.specram{
+  list-style-type: none;
+  margin-left: 400px;
+}
+
+#contact_form{
+  margin-top: 200px;
+  padding-right: 10px;
+  padding-left: 30px;
+  padding-bottom: 120px;
+}
+
+.specgc{
+  margin-left: 250px;
+  list-style-type: none;
+}
+iframe {
+  width : 440px;
+  margin-top: -560px;
+  margin-left: 360px;
+  padding-top: 15px;
+}
+
+.container form {
+  height: 600px;
+  margin-left: 15px;
+}
+}
+
+@media only screen and (min-width:800px)and (max-width:1100px){
+
+
+.menu2 ul{
+  margin-top: -50px;
+}
+.PP2{
+  height: 150px;
+  margin-left: -100px;
+  margin-top: -70px;
+}
+.specpro{
+  margin-top: -200px;
+  list-style-type: none;
+}
+.DP2{
+  margin-left: -30px;
+}
+
+.menu3{
+  margin-left: 180px;
+}
+.specgc{
+  list-style-type: none;
+}
+.menu4 ul{
+  margin-left: 10px;
+}
+.TP2{
+  width : 250px;
+  margin-left: -100px;
+}
+.specram{
+  list-style-type: none;
 }
 }
