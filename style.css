@@ -599,48 +599,48 @@ margin-right: 15px;
 }
 
 .container {
-  margin-top: 20%;
+  margin-top: 30%;
 }
 
 .container h2{
-  margin-top: -200px;
+  margin-top: -100px;
   margin-left: 25px;
   font-size: 20px;
 }
 
 .container .content .menu2{
-  margin-left: -100%;
+  margin-left: -150%;
 }
 
 .menu3 ul{
   font-size: 10px;
-  margin-left: 25px;
+  margin-left: 50px;
   margin-top: -100px;
 }
 
 .menu4 ul{
   font-size: 10px;
-  margin-left: 40px;
-  margin-top: -30px;;
+  margin-left: 20px;
+  margin-top: -150px;;
 }
 .PP2{
   height: 100px;
   margin-left: 0px;
   margin-right: 100px;
-  margin-bottom: 120px;
+  margin-bottom: 50px;
 }
 
 
 .DP2{
   height: 150px;
-  margin-left: 20px;
+  margin-left: 90px;
   margin-right: 100px;
   float: left;
 }
 .specgc{
-  margin-top: -180px;
-  margin-left: 120px;
-  font-size: 15px;
+  margin-top: -150px;
+  margin-left: 170px;
+  font-size: 10px;
   list-style-type:none;
 
 }
@@ -654,14 +654,14 @@ margin-right: 15px;
 
 .TP2{
   height: 110px;
-  margin-top: -80px;
+  margin-top: -190px;
   margin-left: 70px;
   float: left;
 }
 
 .specram{
-  font-size: 15px;
-  margin-left: 250px;
+  font-size: 10px;
+  margin-left: 150px;
   margin-top: -80px;
   list-style-type:none;
 
